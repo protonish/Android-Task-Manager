@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TaskMangerActivity!</string>
+    <string name="app_name">TaskManger</string>
+    <string name="Ram">Free Ram !</string>
+
+</resources>
